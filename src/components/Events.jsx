@@ -1,7 +1,7 @@
 import React from "react";
-import image1 from "../assets/newsletter1.png";
-import image2 from "../assets/newsletter2.png";
-import image3 from "../assets/newsletter3.png";
+import image1 from "../assets/newsLetter1.png";
+import image2 from "../assets/newsLetter2.png";
+import image3 from "../assets/newsLetter3.png";
 import greenBox from "../assets/greenBox.png";
 import icons from "../assets/icons.png";
 
