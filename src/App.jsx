@@ -15,8 +15,8 @@ function App() {
     <>
      <Header />
      <Hero />
-     {/* <About /> */}
-     {/* <Events /> */}
+     <About />
+     <Events />
      {/* <Partners /> */}
      {/* <Team teamMembers={teamMembers} /> */}
      {/* <Footer /> */}
