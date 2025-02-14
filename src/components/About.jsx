@@ -2,7 +2,7 @@ import solarPanel from '../assets/solarpanel.png';
 
 export default function About() {
     return (
-        <div className="px-6 py-16 max-w-7xl mx-auto"> 
+        <div className="px-6 py-16 max-w-7xl mx-auto  " id='about'  > 
             <div className="flex flex-col lg:flex-row-reverse items-center justify-between gap-12">
                 {/* Image Section (Hidden on Mobile) */}
                 <div className="hidden lg:block flex-1">

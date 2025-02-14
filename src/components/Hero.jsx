@@ -13,7 +13,7 @@ export default function Hero() {
           </p>
           <div className="mt-10 sm:mt-16 flex flex-row gap-4 sm:gap-12 justify-center">
             <a
-              href="#"
+              href="#events"
               className="inline-block px-6 sm:px-8 py-3 sm:py-4 bg-[#1b7646] text-white rounded-lg text-base sm:text-lg transition-colors duration-300 hover:bg-[#145830]"
             >
               Learn More

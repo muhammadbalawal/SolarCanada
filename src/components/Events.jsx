@@ -11,7 +11,7 @@ export default function Events() {
   };
 
   return (
-    <div className="p-4 sm:p-8 bg-[#d1e4da]">
+    <div className="p-4 sm:p-8 bg-[#d1e4da] " id="events"> 
       <div className="flex flex-col items-center text-center space-y-4 sm:space-y-6 py-[15px] sm:py-[30px] text-base sm:text-xl">
         {/* Green Box Container */}
         <div className="relative w-full sm:w-[1066px] h-[250px] sm:h-[590px]">

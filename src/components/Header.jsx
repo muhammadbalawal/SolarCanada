@@ -2,7 +2,7 @@ import SolaireLogo from "../assets/SolaireLogo.png";
 
 export default function Header() {
     return (
-        <header className="w-full bg-white shadow-sm">
+        <header className="w-full bg-white shadow-sm"   id="header" >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col sm:flex-row justify-between items-center h-auto sm:h-20 py-4 sm:py-0">
                     {/* Logo and company name */}
@@ -24,10 +24,10 @@ export default function Header() {
 
                     {/* Navigation - Wraps on small screens */}
                     <nav className="flex flex-wrap justify-center sm:justify-end space-x-4 sm:space-x-8 mt-4 sm:mt-0">
-                        <a href="#" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
+                        <a href="#header" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
                             Home
                         </a>
-                        <a href="#" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
+                        <a href="#about" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
                             About
                         </a>
                         <a href="#" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
