@@ -4,7 +4,7 @@ const teamMembers = [
       name: "Daniel La Tour",
       role: "CEO/Founder",
       image: "/daniel.png",
-      bio: "I graduated from Queen's University with a Bachelor of Education degree and the University of Ottawa with a Bachelor of Arts degree with majors in English Literature and Psychology. I am married and have two sons. I am the founder of the non-profit community group ‘Fondation Energies Renouvelables & Solaire Canada Solar & Renewable Energy Power Foundation’ and Project Leader of a Canada Summer Jobs 2024 pilot project to support the small business community of the federal riding of Lac St Louis."
+      bio: "I graduated from Queen’s University with a Bachelor of Education degree and the University of Ottawa with a Bachelor of Arts degree with majors in English Literature and Psychology. I am married and have two Sons. I am the founder of the non-profit community group “Fondation Energies Renouvelables & Solaire Canada Solar & Renewable Energy Power Foundation” and Project Leader of a Canada Summer Jobs 2024 pilot project to support the small business community of the federal riding of Lac St Louis."
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const teamMembers = [
       name: "Emma Wright",
       role: "CEO/Founder",
       image: "/emma.png",
-      bio: "I graduated from Queen's University with a Bachelor of Education degree and the University of Ottawa with a Bachelor of Arts degree with majors in English Literature and Psychology. I am married and have two sons. I am the founder of the non-profit community group ‘Fondation Energies Renouvelables & Solaire Canada Solar & Renewable Energy Power Foundation’ and Project Leader of a Canada Summer Jobs 2024 pilot project to support the small business community of the federal riding of Lac St Louis."
+      bio: "I am entering my fourth year of Chemical Engineering at McGill University. My recent projects for Solaire Canada Solar include collaborating with the team on our comprehensive business analysis report and coordinating with guest speakers to enhance community education. Additionally, I have been establishing connections with municipal officials to advocate for environmental change."
     },
     {
       id: 7,
