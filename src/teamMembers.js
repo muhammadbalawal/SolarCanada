@@ -25,7 +25,7 @@ const teamMembers = [
       name: "Muhammad Balawal Safdar",
       role: "Project Developer Intern",
       image: "/unknownlogo.png",
-      bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus urna sed tincidunt placerat. Nam convallis id dui at porttitor. Cras non lectus quam. Etiam efficitur nec risus sit amet rutrum."
+      bio: "I am a Computer Science student at John Abbott College, passionate about technology, design, and sustainability. I built the Solaire Canada Solar website, honed my UI/UX skills in Figma, and designed 3D solar panels in SolidWorks. Beyond software and design, I actively contribute to renewable energy projects, using data analysis and feasibility studies to drive green energy solutions. Always eager to learn, I strive to innovate at the intersection of tech and sustainability."
     },
     {
       id: 5,
