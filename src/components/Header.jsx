@@ -28,14 +28,12 @@ export default function Header() {
                             Home
                         </a>
                         <a href="#about" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
-                            About
+                            About US
                         </a>
-                        <a href="#" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
-                            Contact
+                        <a href="#events" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
+                            Events
                         </a>
-                        <a href="#" className="text-gray-700 hover:text-green-700 transition-colors text-sm sm:text-base">
-                            Resources
-                        </a>
+
                     </nav>
                 </div>
             </div>

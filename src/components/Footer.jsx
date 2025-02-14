@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-      <footer className="bg-[#1b7646] py-[38px] px-[33px]">
+      <footer className="bg-[#1b7646] py-[38px] px-[33px] " id="footer" >
         <div className="max-w-7xl mx-auto flex justify-between items-center text-white">
           {/* Mailing Address */}
           <div className="flex-1 text-left">

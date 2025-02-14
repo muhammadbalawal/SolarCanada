@@ -19,7 +19,7 @@ export default function Hero() {
               Learn More
             </a>
             <a
-              href="#"
+              href="#footer"
               className="inline-block px-6 sm:px-8 py-3 sm:py-4 bg-[#1b7646] text-white rounded-lg text-base sm:text-lg transition-colors duration-300 hover:bg-[#145830]"
             >
               Contact Us
